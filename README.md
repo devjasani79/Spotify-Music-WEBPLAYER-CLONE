@@ -5,6 +5,9 @@ The Web Music Player is a responsive application that replicates Spotify’s fun
 
 ## Site Overview
 https://spotifymuse.freewebhostmost.com/
+*DUE TO SERVICE EXPIRE SITE MIGHT NOT WORK*
+https://devjasani79.github.io/Spotify.github.io/
+
 
 ## Features
 - **Album Browsing**: View album covers and descriptions.
